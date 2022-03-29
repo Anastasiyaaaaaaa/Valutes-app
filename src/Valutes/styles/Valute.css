@@ -1,0 +1,4 @@
+ .valute:hover {
+     background: rgba(191, 163, 255, 0.26);
+     transition: background-color 1s;
+ }

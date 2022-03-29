@@ -1,0 +1,18 @@
+.item,
+.valutes-header {
+    padding: 20px 0;
+    border-bottom: 1px solid rgb(201, 201, 201);
+}
+
+.item ul,
+.valutes-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.item li,
+.valutes-header li {
+    width: 20vw;
+}
